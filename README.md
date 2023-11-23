@@ -1,4 +1,4 @@
-# Airline-Website
+# Airline-Website (3rd Semester Mini Project)
 ## How to run the code:
 1) Download the code in this repository
 2) Open the code in any code editor
